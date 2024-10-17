@@ -6,7 +6,7 @@
 
 1. What is the name of the dataset the video uses to train the encoder-decoder model?
    COCO dataset
-2. What is the goal of the image captioning task?
+2. What is the goal of the image captioning task? 
    To generate text captions for images
 3. What is the purpose of the attention mechanism in an encoder-decoder model?
   To allow the decoder to focus on specific parts of the image when generating text captions.
