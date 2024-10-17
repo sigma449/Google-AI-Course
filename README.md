@@ -12,12 +12,15 @@
    To generate text captions for images
 3. What is the purpose of the attention mechanism in an encoder-decoder model?
    To allow the decoder to focus on specific parts of the image when generating text captions.
-4. What is the purpose of the encoder in an encoder-decoder model?
+   
+5. What is the purpose of the encoder in an encoder-decoder model?
   
   To extract information from the image.
+  
 5. What is the name of the model that is used to generate text captions for images?
   
   Encoder-decoder model
+  
 6. What is the purpose of the decoder in an encoder-decoder model?
   
   To generate output data from the information extracted by the encoder
