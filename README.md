@@ -1,6 +1,6 @@
 # Google-AI-Course
 
-# Path 3
+# Path 3 Advanced: Generative AI for Developers Learning Path
 
 ### 05 Create Image Captioning Models
 
@@ -13,7 +13,7 @@
 3. What is the purpose of the attention mechanism in an encoder-decoder model?
    To allow the decoder to focus on specific parts of the image when generating text captions.
    
-5. What is the purpose of the encoder in an encoder-decoder model?
+4. What is the purpose of the encoder in an encoder-decoder model?
   
   To extract information from the image.
   
