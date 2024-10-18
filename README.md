@@ -79,7 +79,7 @@ Setting the temperature to a high value.
 
 ### **09. Responsible AI for Developers: Fairness & Bias**
 
-Q1
+### Q1
 
 #### 1. You have been asked to do a presentation to a stakeholder in your organization on the importance of responsible AI. As you are thinking through your key opening statement, what is the most appropriate statement you can make that describes the importance of having responsible AI?
 Responsible AI is important for our organization because it reduces overall harm that our products may inflict on underrepresented groups.
@@ -92,3 +92,15 @@ Ensure the recommendation data the product is pulling from is fairly representat
 
 #### 4. As you think through the development of your AI product, your organization is looking to you to lead and guide the development team around responsible AI best practices. What is a key best practice the team should think through as they develop the AI product?
 When possible, the team should hold the capability to access raw data to investigate issues or unintended behaviors.
+
+
+### Q2
+
+#### 1. A researcher did an anonymous survey with students in a mixed-gender middle school to learn the health and diet patterns of middle school students in the entire country. What type of bias could it introduce?
+   Selection bias.
+
+#### 2. You have been asked to do a presentation in your organization on the importance of AI fairness and bias. As you are thinking through your key opening statement, what is the most appropriate statement you can make that explains why AI fairness is difficult?
+   Fairness is difficult because there are pre-existing biases, a variety of scenarios, no standard definition of fairness, and incompatibility of fairness metrics.
+   
+#### 3. As a data scientist, you are tasked with identifying bias in training data in an effective way. Which of the tools below can be used to identify bias in data?
+   TensorFlow Data Validation, What-if Tool.
