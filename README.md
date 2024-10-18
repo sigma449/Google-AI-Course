@@ -70,6 +70,13 @@ Setting the temperature to a high value.
 
 --------------------------------------------------------------------------------
 
+### **08. Inspect Rich Documents with Gemini Multimodality and Multimodal RAG**
+
+   https://github.com/Techcps/GSP-Short-Trick/blob/main/Inspect%20Rich%20Documents%20with%20Gemini%20Multimodality%20and%20Multimodal%20RAG%20Challenge%20Lab/inspect_rich_documents_w_gemini_multimodality_and_multimodal_rag.ipynb
+
+
+--------------------------------------------------------------------------------
+
 ### **09. Responsible AI for Developers: Fairness & Bias**
 
 Q1
