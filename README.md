@@ -104,3 +104,23 @@ When possible, the team should hold the capability to access raw data to investi
    
 #### 3. As a data scientist, you are tasked with identifying bias in training data in an effective way. Which of the tools below can be used to identify bias in data?
    TensorFlow Data Validation, What-if Tool.
+
+
+--------------------------------------------------------------------------------
+
+### **10. Responsible AI for Developers: Interpretability & Transparency**
+
+#### 1. As an AI engineering team manager, you're giving a presentation to explain why interpretability and transparency in AI development is important for engineers. Which of the following statements would be best to include in your slides?
+   
+   Understand model behaviors
+
+#### 2. Your manager is a strong advocate for responsible AI development. During a project review, they emphasize the importance of transparency and documentation around the dataset you're using and the resulting AI model. They want to know what steps you're taking to ensure this. Which of the following tools or techniques are you using to provide a clear understanding of your dataset and model?
+
+   Data card, Model card.
+#### 3. You're working on an image classification model for identifying different types of clouds. During testing, you notice some strange results. The model seems to be focusing on irrelevant areas of the images (like background objects) instead of the actual cloud features. To understand why your model is behaving this way, which of the following tools or techniques would be the most helpful?
+
+   XRAI (eXplainable Region-based Artificial Intelligence)
+
+
+--------------------------------------------------------------------------------
+
