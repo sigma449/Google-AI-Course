@@ -129,15 +129,12 @@ When possible, the team should hold the capability to access raw data to investi
 ## Q1:
 
 #### 1. You've applied various de-identification techniques to a customer dataset containing sensitive information before using it to train an AI model. Which of the following concepts should you use to evaluate the suitability of your de-identification techniques?
-
    1. Reversibility and referential integrity.
       
 #### 2. In machine learning, privacy measures often introduce trade-offs with other important factors. Which of the following does NOT represent a typical trade-off?
-
    1. Privacy and Transparency
 
 #### 3. A customer is working with a large dataset of healthcare records to develop a diagnostic AI model. They want to ensure privacy of sensitive data, by restricting the contribution of specific data on the model during training. Which privacy-focused technique would be best for the customer?
-
    1. DP-SGD (Differentially Private - Stochastic Gradient Descent)
 
 ********************************************************************************
