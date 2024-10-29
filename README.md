@@ -152,6 +152,4 @@ When possible, the team should hold the capability to access raw data to investi
 
 --------------------------------------------------------------------------------
 
-### 12. 
-
 
